@@ -1,0 +1,1 @@
+# teradata-elt-mcp-vscode-extension
