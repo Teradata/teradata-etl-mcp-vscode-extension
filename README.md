@@ -1,1 +1,1 @@
-# teradata-elt-mcp-vscode-extension
+# teradata-etl-mcp-vscode-extension
